@@ -33,6 +33,10 @@ The following are official Spacemesh project resources:
 
 The following are unofficial community contributions. Note: I cannot vouch for the accuracy or security of any of these resources. Do your own research and use with caution!
 
+## Websites
+
+- [Spacemesh.fyi](https://spacemesh.fyi) — The ideal first point of contact for someone hearing about the Spacemesh project, implemented in a fun card-based UI that works great on desktop and mobile.
+
 ## Articles
 - [Enabling Systemd for Go Spacemesh](https://hakedev.substack.com/p/enabling-systemd-for-go-spacemesh)
 - [Efficient Spacemesh Mining with Multiple GPUs](https://simeononsecurity.ch/other/efficient-spacemesh-mining-multiple-gpus-guide/)
